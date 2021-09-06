@@ -1,6 +1,6 @@
 # FridgeTrackeriOS
 
-Fridge tracking application for monitoring ingredients and fresh produce. 
+Fridge tracking iOS application for monitoring ingredients and fresh produce. 
 Main APIs used in this project included Navigation Controller API, User Notifications API, and Core Graphics/Quartz API.
 
 -----**API Implemented**-----
