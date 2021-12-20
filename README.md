@@ -32,3 +32,18 @@ accessed through navigation controller and table view controller
   • Features include browsing items in the inventory list, as well as, a view of pie chart displaying the percentage or amount of inventory stock of each item relative to other items
 
   ✴ Enable user to setup notification on each item in the inventory list • Feature include setting notification of item expiration date notice
+
+-----**Samples**----- <br>
+![Home](ReadMeImages/Home.jpg)
+
+<br>
+
+![List](ReadMeImages/List.jpg)
+
+<br>
+
+![Detail](ReadMeImages/Detail.jpg)
+
+<br>
+
+![Pie](ReadMeImages/Pie.jpg)
